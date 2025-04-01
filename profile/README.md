@@ -5,8 +5,8 @@
 <!-- <img width="25%" align="right" src="https://user-images.githubusercontent.com/552961/197638905-f5144be3-a2f2-48c2-9ecb-26e4e34d8d8a.svg#gh-light-mode-only"/> -->
 <!-- <img width="25%" align="right" src="https://user-images.githubusercontent.com/552961/197640007-f3f05dd1-c61c-4c16-bd04-d1813937ad47.svg#gh-dark-mode-only"/> -->
 
-<img width="25%" align="right" src="assets/selkie-solid-black-on-transparent.svg#gh-light-mode-only"/>
-<img width="25%" align="right" src="assets/selkie-solid-white-on-transparent.svg#gh-dark-mode-only"/>
+<img width="25%" align="right" src="/assets/selkie-solid-black-on-transparent.svg#gh-light-mode-only"/>
+<img width="25%" align="right" src="/assets/selkie-solid-white-on-transparent.svg#gh-dark-mode-only"/>
 
 
 *"In very ancient times some of the Clan Coneely, one of the early septs of the county, were changed by “art magick” into seals; since then no Coneely can kill a seal without afterwards having bad luck." - Connemara Folk-Lore*
